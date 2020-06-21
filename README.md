@@ -24,6 +24,12 @@ I wanted to explore the difference between the rate at which girls and boys who 
 ![IT_results](screenShot9.png)
 ![IT_results](ScreenShot10.png)
 
+# Project 4: Trying Dash
+
+Made a really quick dash project based on a tutorial.
+
+![Dash](ScreenShot11.png)
+
 
 
 
