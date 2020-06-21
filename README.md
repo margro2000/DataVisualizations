@@ -1,8 +1,8 @@
-# DataVisualizations
+# Data Visualizations
 
-This is a compiled folder with all my data visualizations. To view code and visualizations, run in JupyterLab.
+This is a compiled folder with all my data explorations. Run in JupyterLab.
 
-# Visualization 1: Avocado Region Data
+# Project 1: Avocado Region Data
 I explored data with prices, region, and more information about avocados overtime.
 
 
@@ -11,3 +11,7 @@ I explored data with prices, region, and more information about avocados overtim
 ![avocados](screenShot3.png)
 ![avocados](screenShot4.png)
 ![avocados](screenShot5.png)
+
+# Project 2: Exploring 3d Visualizations
+
+![avocados](screenShot6.png)
