@@ -7,3 +7,7 @@ I explored data with prices, region, and more information about avocados overtim
 
 
 ![avocados](screenShot1.png)
+![avocados](screenShot2.png)
+![avocados](screenShot3.png)
+![avocados](screenShot4.png)
+![avocados](screenShot5.png)
